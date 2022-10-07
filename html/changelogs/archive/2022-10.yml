@@ -58,3 +58,11 @@
   Lumipharon:
   - qol: Shutters drop after 3 minutes in Combat Patrol instead of 5
   - bugfix: Autoburst respects aim mode penalties
+2022-10-07:
+  Dikozda:
+  - bugfix: fixed synthesized instruments
+  Lumipharon:
+  - code_imp: cleaned up a bit of flashbang code
+  - rscadd: The SOM have begun domestic food production to replace imported UPP rations
+  lbnesquik:
+  - rscadd: Expanded Prison West LZ2 by 1 tile west
